@@ -14,9 +14,9 @@
 <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-<h2>🎓 Formação Acadêmica 🎓</h2> 
+<h2>🎓 Cursos 🎓</h2> 
  <p>💻 Cursando Técnico em Programação de Jogos Digitais - Escola Senai de Informática - Paulo Antônio Skaf - São Caetano do Sul</p> 
- <p>💻 Realizando Curso em Desenvolvimento Web-HTML,CSS,JAVA - SOS Computadores Educação Profissional - Mauá</p> 
+ <p>💻 Realizando Curso em Desenvolvimento Web-HTML,CSS, - SOS Computadores Educação Profissional - Mauá</p> 
 </div>
 
 - 🔭 I’m currently working on ...
