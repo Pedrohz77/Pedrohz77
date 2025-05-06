@@ -17,6 +17,6 @@
 
 <h2>🎓 Cursos 🎓</h2> 
  <p> Cursando Técnico em Programação de Jogos Digitais - Escola Senai de Informática - Paulo Antônio Skaf - São Caetano do Sul</p> 
- <p> Realizando Curso em Desenvolvimento Web-HTML,CSS,JS - SOS Computadores Educação Profissional - Mauá</p> 
+ <p> Curso em Desenvolvimento Web-HTML,CSS,JS - SOS Computadores Educação Profissional - Mauá</p> 
 </div>
 
